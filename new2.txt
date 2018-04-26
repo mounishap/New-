@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 123
+=======
+
+new2 master
+
+>>>>>>> cddbddc2bff99e1ce214ecfc0ba29b751a5d151c
